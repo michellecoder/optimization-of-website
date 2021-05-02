@@ -60,9 +60,6 @@ p {
     background-position: center;
 }
 
-
-/* Moved .float-right into ruelset with .float-left */
-
 .float-left {
     float: left;
     margin-right: 25px;
