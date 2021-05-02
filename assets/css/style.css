@@ -60,6 +60,9 @@ p {
     background-position: center;
 }
 
+
+/* Moved .float-right into ruelset with .float-left */
+
 .float-left,
 .float-right {
     float: left;
@@ -75,6 +78,9 @@ p {
 
 
 /*BENEFITS and OPTIMIZATION section*/
+
+
+/* change class to benefit-item and optimization */
 
 .benefits {
     margin-right: 20px;
@@ -120,6 +126,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* FOOTER section */
 
 footer {
     padding: 30px;
