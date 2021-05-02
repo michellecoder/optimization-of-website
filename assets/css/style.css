@@ -86,6 +86,9 @@ p {
     background-color: #2589bd;
 }
 
+
+/*grouped together similar rule blocks*/
+
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
