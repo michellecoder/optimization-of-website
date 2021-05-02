@@ -63,11 +63,14 @@ p {
 
 /* Moved .float-right into ruelset with .float-left */
 
-.float-left,
-.float-right {
+.float-left {
     float: left;
-    float: right;
     margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px
 }
 
 .content {
