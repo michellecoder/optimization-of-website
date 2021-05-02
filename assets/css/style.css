@@ -22,11 +22,6 @@ header h1,
     color: #d9dcd6;
 }
 
-
-/* header h1 .seo {
-    color: #d9dcd6;
-} */
-
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -78,6 +73,9 @@ p {
     margin-left: 20px;
 }
 
+
+/*BENEFITS and OPTIMIZATION section*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,9 +86,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-
-/*BENEFITS and OPTIMIZATION section*/
 
 .benefit-item {
     margin-bottom: 32px;
@@ -121,19 +116,18 @@ p {
     max-height: 200px;
 }
 
-.optimization h2,
-.h2 {
+.optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
