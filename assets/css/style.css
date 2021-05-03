@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/* HEADER section */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,6 +42,9 @@ header nav ul li {
     margin-left: 25px;
 }
 
+
+/* LINKS section */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -59,6 +65,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+
+/* IMAGES section */
 
 .float-left {
     float: left;
