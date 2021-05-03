@@ -1,4 +1,4 @@
-# optimization-of-website
+# Optimization-of-Website
 Optimizing website for more accessability
 
 ## Motivation for this Porject
