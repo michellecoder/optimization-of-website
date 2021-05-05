@@ -19,4 +19,4 @@ I learned a lot from this project but three things stood out the moset to me. I 
   
   * You can not combine everything in CSS. It **WILL** break!
 
- ![alt text](assets/images/Horisoen.png)
+ ![alt text](Horiseon2.png)
