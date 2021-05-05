@@ -21,4 +21,4 @@ I learned a lot from this project but three things stood out the moset to me. I 
 
 https://michellecoder.github.io/optimization-of-website/
 
- ![alt text](Horiseon2.png)
+![alt text](Horiseon2.png)
