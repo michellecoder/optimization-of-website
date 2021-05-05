@@ -5,7 +5,7 @@ Optimizing website for more accessability
 
 Wanting to know how HTML and CSS work together to make a website function.
 
-## Reason for this Projecgt
+## Reason for this Project
 
 To learn how to add *efficency* and **accessibility** to some one else's code without changing how the website works.
 
@@ -18,3 +18,5 @@ I learned a lot from this project but three things stood out the moset to me. I 
   * comment out code insted of erasing code when you are trying something. This will save your life if/when it breaks stuff.
   
   * You can not combine everything in CSS. It **WILL** break!
+
+ ![alt text](assets/images/Horisoen.png)
