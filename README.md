@@ -19,4 +19,6 @@ I learned a lot from this project but three things stood out the moset to me. I 
   
   * You can not combine everything in CSS. It **WILL** break!
 
+https://michellecoder.github.io/optimization-of-website/
+
  ![alt text](Horiseon2.png)
